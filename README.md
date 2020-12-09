@@ -1,7 +1,7 @@
 # ResearchAssociate
 Retrieving Publications from PubMed Database Based on User Query
 
-[![CRAN RStudio mirror downloads](https://cranlogs.r-pkg.org/badges/grand-total/UniprotR?color=blue)](https://cran.r-project.org/package=ResearchAssociate) 
+[![CRAN RStudio mirror downloads](https://cranlogs.r-pkg.org/badges/grand-total/ResearchAssociate?color=blue)](https://cran.r-project.org/package=ResearchAssociate) 
 [![](https://www.r-pkg.org/badges/version/ResearchAssociate?color=green)](https://cran.r-project.org/package=ResearchAssociate) 
 
 
@@ -23,4 +23,4 @@ Publications <- Get.Publication.info("Bioinformatics", Output = getwd())
 ```
 
 # Sample output 
-![](https://ibb.co/Jrm2Xmx)
+![](https://i.ibb.co/Dwzk3zG/Sample.jpg)
